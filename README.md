@@ -1,4 +1,4 @@
 # hello-world
 myfirstreposit
 
-Hello everyone, I'm learning to use github.
+hello world, I'm learning to use github.
